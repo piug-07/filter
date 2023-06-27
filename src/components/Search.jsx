@@ -110,8 +110,8 @@ const Search = () => {
             </div>
             <div className="text-black">
               <div className="flex flex-col">
-                <div className="flex flex-row justify-evenly ">
-                  <div className="flex flex-col mr-8">
+                <div className="flex flex-row justify-evenly  ">
+                  <div className="flex flex-col pl-5">
                     <h3 className="">Duration</h3>
                     <div>
                       <Box sx={{ width: 300 }} className="mt-5 w-60" style={{ width: "17rem" }}>
@@ -128,13 +128,13 @@ const Search = () => {
                       </Box>
                     </div>
                   </div>
-                  <div className="flex flex-col ">
+                  <div className="flex flex-col pl-5">
                     <h3 className="mb-3">Location</h3>
                     <input type="text" className="border-2 border-solid h-10 rounded-2xl p-2"/>
                   </div>
                 </div>
                 <div className="flex flex-row justify-evenly ">
-                  <div className="flex flex-col mr-8">
+                  <div className="flex flex-col ">
                     <h3 className="">stripend</h3>
                     <div>
                       <Box sx={{ width: 300 }} className="mt-5 w-60" style={{ width: "17rem" }}>
