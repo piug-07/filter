@@ -1,0 +1,152 @@
+{
+    "InternData": [
+        {
+            "InternName":"Developer Intern",
+            "CompanyName":"Google",
+            "AboutUs":"About Us We are a mobile and web development company. We're a professional, individualistic one-stop shop providing strategic brand consulting, experience and customer journey design, mobile app design and development, website and software development, and just about everything else which has to do anything with digital technology.",
+            "Requirements":" Someone who can work in a fast-paced startup environment Good understanding of ReactJs, HTML, SCSS (styling is important), Javascript Good communication is a must-have for this role Hardworking & Curious to learn/implement new things is what I prefer personally",
+            "Responsibilities":"Write quality code with a clean UI/UX view Work with the tech & non-tech teams to create a meaningful product for users Capable to build a feature, testing, and deploying a feature on the production server",
+              "InternData":[
+             { "Duration":"3 months"},
+              {
+
+                  "Location":"Noida"
+              },
+              {
+                  "Stripend":"10k-25k"
+              },
+              {
+
+                  "NoOfPositions":"20"
+              }
+              ],
+            "images":{
+              "public_id":"sample image",
+              "url":"sampleUrl"
+            },
+            "Technologies":[
+              "java, Android Studio, Kotlin , Dart"
+            ]
+          
+          },
+          {
+            "InternName":"Software Developer Intern",
+            "CompanyName":"Tata Consultancy Services Pvt Ltd",
+            "AboutUs":"About Us We are a mobile and web development company. We're a professional, individualistic one-stop shop providing strategic brand consulting, experience and customer journey design, mobile app design and development, website and software development, and just about everything else which has to do anything with digital technology.",
+            "Requirements":" Someone who can work in a fast-paced startup environment Good understanding of ReactJs, HTML, SCSS (styling is important), Javascript Good communication is a must-have for this role Hardworking & Curious to learn/implement new things is what I prefer personally",
+            "Responsibilities":"Write quality code with a clean UI/UX view Work with the tech & non-tech teams to create a meaningful product for users Capable to build a feature, testing, and deploying a feature on the production server",
+              "InternData":[
+             { "Duration":"3 months"},
+              {
+
+                  "Location":"Noida"
+              },
+              {
+                  "Stripend":"20k-25k"
+              },
+              {
+
+                  "NoOfPositions":"20"
+              }
+              ],
+            "images":{
+              "public_id":"sample image",
+              "url":"sampleUrl"
+            },
+            "Technologies":[
+              "java, Android Studio, Kotlin , Dart"
+            ]
+          
+          },
+          {
+            "InternName":"Motion Graphics Designer",
+            "CompanyName":"Xapo Visuals",
+            "AboutUs":"About Us We are a mobile and web development company. We're a professional, individualistic one-stop shop providing strategic brand consulting, experience and customer journey design, mobile app design and development, website and software development, and just about everything else which has to do anything with digital technology.",
+            "Requirements":" Someone who can work in a fast-paced startup environment Good understanding of ReactJs, HTML, SCSS (styling is important), Javascript Good communication is a must-have for this role Hardworking & Curious to learn/implement new things is what I prefer personally",
+            "Responsibilities":"Write quality code with a clean UI/UX view Work with the tech & non-tech teams to create a meaningful product for users Capable to build a feature, testing, and deploying a feature on the production server",
+              "InternData":[
+             { "Duration":"6 months"},
+              {
+
+                  "Location":"Gurgaon"
+              },
+              {
+                  "Stripend":"10k-25k"
+              },
+              {
+
+                  "NoOfPositions":"20"
+              }
+              ],
+            "images":{
+              "public_id":"sample image",
+              "url":"sampleUrl"
+            },
+            "Technologies":[
+              "java, Android Studio, Kotlin , Dart"
+            ]
+          
+          },
+          {
+            "InternName":"Software Developer Intern",
+            "CompanyName":"Physics Wallah",
+            "AboutUs":"About Us We are a mobile and web development company. We're a professional, individualistic one-stop shop providing strategic brand consulting, experience and customer journey design, mobile app design and development, website and software development, and just about everything else which has to do anything with digital technology.",
+            "Requirements":" Someone who can work in a fast-paced startup environment Good understanding of ReactJs, HTML, SCSS (styling is important), Javascript Good communication is a must-have for this role Hardworking & Curious to learn/implement new things is what I prefer personally",
+            "Responsibilities":"Write quality code with a clean UI/UX view Work with the tech & non-tech teams to create a meaningful product for users Capable to build a feature, testing, and deploying a feature on the production server",
+              "InternData":[
+             { "Duration":"3 months"},
+              {
+
+                  "Location":"Noida"
+              },
+              {
+                  "Stripend":"10k-30k"
+              },
+              {
+
+                  "NoOfPositions":"10"
+              }
+              ],
+            "images":{
+              "public_id":"sample image",
+              "url":"sampleUrl"
+            },
+            "Technologies":[
+              "java, Android Studio, Kotlin , Dart"
+            ]
+          
+          },
+          {
+            "InternName":"Developer Intern",
+            "CompanyName":"J.P Morgan",
+            "AboutUs":"About Us We are a mobile and web development company. We're a professional, individualistic one-stop shop providing strategic brand consulting, experience and customer journey design, mobile app design and development, website and software development, and just about everything else which has to do anything with digital technology.",
+            "Requirements":" Someone who can work in a fast-paced startup environment Good understanding of ReactJs, HTML, SCSS (styling is important), Javascript Good communication is a must-have for this role Hardworking & Curious to learn/implement new things is what I prefer personally",
+            "Responsibilities":"Write quality code with a clean UI/UX view Work with the tech & non-tech teams to create a meaningful product for users Capable to build a feature, testing, and deploying a feature on the production server",
+              "InternData":[
+             { "Duration":"9 months"},
+              {
+
+                  "Location":"Noida"
+              },
+              {
+                  "Stripend":"10k-50k"
+              },
+              {
+
+                  "NoOfPositions":"5"
+              }
+              ],
+            "images":{
+              "public_id":"sample image",
+              "url":"sampleUrl"
+            },
+            "Technologies":[
+              "java, Android Studio, Kotlin , Dart"
+            ]
+          
+          }
+
+    
+    ] 
+    
+}
