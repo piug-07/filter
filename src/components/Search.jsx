@@ -7,7 +7,7 @@ import Box from "@mui/material/Box";
 import Slider from "@mui/material/Slider";
 
 const Search = () => {
-  const [modal, setModal] = useState(false);
+  // const [modal, setModal] = useState(false);
   const [showPopup, setShowPopup] = useState(false);
 
   
@@ -70,11 +70,11 @@ const Search = () => {
     // setUserid(id);
   };
 
-  if (modal) {
-    document.body.classList.add("active-modal");
-  } else {
-    document.body.classList.remove("active-modal");
-  }
+  // if (modal) {
+  //   document.body.classList.add("active-modal");
+  // } else {
+  //   document.body.classList.remove("active-modal");
+  // }
 
   return (
     <div className={style.main1}>
